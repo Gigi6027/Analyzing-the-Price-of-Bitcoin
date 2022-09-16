@@ -1,0 +1,4 @@
+The project contains the following things:
+1. Excel spreadsheet containing the average price of Bitcoin on Particular day for each month of a period of Five Years
+2.Python Code which is the generation of the Heat map
+3. Image of the Output of the heatmap
